@@ -33,10 +33,8 @@ class TestOrange:
     #fn,mn,ln,emp_id,driverse_license,driverse_license_expiry
     def test_enter_personal_details(self,driver):
         my_info_page=My_info_locators(driver)
-        time.sleep(2)
         my_info_page.clear_all_fields()
         time.sleep(5)
-        driver.refresh()
         personal_details=('demo',"user","sample","emp123","456987")
         my_info_page.enter_personal_fields_details(*personal_details)
 
