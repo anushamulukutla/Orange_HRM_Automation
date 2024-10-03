@@ -67,6 +67,12 @@ Selenium is a free (open-source) automated testing framework used to validate we
 - WebdriverIO
 - Cypress
 - Serenity BDD
+  ## Screenshots
+
+Here are some key screenshots from the test process:
+
+![Login Page Screenshot](https://github.com/anushamulukutla/Orange_HRM_Automation/blob/main/screenshots/login_page.png)
+![My Info Page Screenshot](https://github.com/anushamulukutla/Orange_HRM_Automation/blob/main/screenshots/my_info_page.png)
 
 ### Pre-requisite:
 
